@@ -1,0 +1,20 @@
+C:\Users\1739283\Documents\Visual Studio 2017\Projects\Movie Theatre\Movie Theatre\bin\Debug\Movie Theatre.exe.config
+C:\Users\1739283\Documents\Visual Studio 2017\Projects\Movie Theatre\Movie Theatre\bin\Debug\Movie Theatre.exe
+C:\Users\1739283\Documents\Visual Studio 2017\Projects\Movie Theatre\Movie Theatre\bin\Debug\Movie Theatre.pdb
+C:\Users\1739283\Documents\Visual Studio 2017\Projects\Movie Theatre\Movie Theatre\obj\Debug\Movie Theatre.csprojResolveAssemblyReference.cache
+C:\Users\1739283\Documents\Visual Studio 2017\Projects\Movie Theatre\Movie Theatre\obj\Debug\Movie_Theatre.Form1.resources
+C:\Users\1739283\Documents\Visual Studio 2017\Projects\Movie Theatre\Movie Theatre\obj\Debug\Movie_Theatre.Properties.Resources.resources
+C:\Users\1739283\Documents\Visual Studio 2017\Projects\Movie Theatre\Movie Theatre\obj\Debug\Movie Theatre.csproj.GenerateResource.Cache
+C:\Users\1739283\Documents\Visual Studio 2017\Projects\Movie Theatre\Movie Theatre\obj\Debug\Movie Theatre.csproj.CoreCompileInputs.cache
+C:\Users\1739283\Documents\Visual Studio 2017\Projects\Movie Theatre\Movie Theatre\obj\Debug\Movie Theatre.exe
+C:\Users\1739283\Documents\Visual Studio 2017\Projects\Movie Theatre\Movie Theatre\obj\Debug\Movie Theatre.pdb
+H:\Movie Theatre\Movie Theatre\bin\Debug\Movie Theatre.exe.config
+H:\Movie Theatre\Movie Theatre\bin\Debug\Movie Theatre.exe
+H:\Movie Theatre\Movie Theatre\bin\Debug\Movie Theatre.pdb
+H:\Movie Theatre\Movie Theatre\obj\Debug\Movie Theatre.csprojResolveAssemblyReference.cache
+H:\Movie Theatre\Movie Theatre\obj\Debug\Movie_Theatre.Form1.resources
+H:\Movie Theatre\Movie Theatre\obj\Debug\Movie_Theatre.Properties.Resources.resources
+H:\Movie Theatre\Movie Theatre\obj\Debug\Movie Theatre.csproj.GenerateResource.Cache
+H:\Movie Theatre\Movie Theatre\obj\Debug\Movie Theatre.csproj.CoreCompileInputs.cache
+H:\Movie Theatre\Movie Theatre\obj\Debug\Movie Theatre.exe
+H:\Movie Theatre\Movie Theatre\obj\Debug\Movie Theatre.pdb
